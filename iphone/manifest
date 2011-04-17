@@ -1,0 +1,17 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 0.1
+description: OpenGL ES 1.1 Module for Titanium
+author: Kevin Thompson
+license: Closed Source
+copyright: Copyright (c) 2010 by Kevin Thompson
+
+
+# these should not be edited
+name: opengl
+moduleid: ti.opengl
+guid: 346b73e9-8f93-4109-8987-6a48567facad
+platform: iphone
+minsdk: 1.6.1
